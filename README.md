@@ -10,4 +10,3 @@ Assignment approach:
    b) Create request and response model for the api call
    c) Create the service to do the calculation
 5. Test the overall functionality in Postman
-6. Add in unit test
